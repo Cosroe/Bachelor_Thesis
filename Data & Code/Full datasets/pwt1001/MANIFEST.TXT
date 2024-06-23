@@ -1,0 +1,21 @@
+Earlier vintage National Accounts/na_data_v2011.dta (application/x-stata) 1502989 bytes.
+Underlying detail/pwt1001-esh_bilateral_cor_data.dta (application/x-stata-14) 6415651 bytes.
+Basic ICP data/icp1970.xls (application/vnd.ms-excel) 798208 bytes.
+Underlying detail/pwt1001_capital_detail.dta (application/x-stata-14) 1698115 bytes.
+Earlier vintage National Accounts/na_data_v2010.dta (application/x-stata) 1400907 bytes.
+Basic ICP data/icp1985.xls (application/vnd.ms-excel) 2101760 bytes.
+Program package/program_package_pwt_10_01.zip (application/zip) 2669181 bytes.
+Underlying detail/pwt1001_capital_detail.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 4294350 bytes.
+Underlying detail/pwt1001_na_data.dta (application/x-stata-14) 1945996 bytes.
+Basic ICP data/icp1996.xls (application/vnd.ms-excel) 706048 bytes.
+Basic ICP data/icp1980.xls (application/vnd.ms-excel) 2421760 bytes.
+Underlying detail/pwt1001-trade-detail.dta (application/x-stata-14) 1703463 bytes.
+Underlying detail/pwt1001_na_data.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 3069803 bytes.
+Basic ICP data/icp1975.xls (application/vnd.ms-excel) 1376256 bytes.
+Earlier vintage National Accounts/pwt90-na-data.dta (application/x-stata-14) 1762096 bytes.
+pwt1001.dta (application/x-stata-14) 3452645 bytes.
+pwt1001-whatsnew.pdf (application/pdf) 1793782 bytes.
+pwt1001.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 6551843 bytes.
+Earlier vintage National Accounts/na_data_v2009.dta (application/x-stata) 1371784 bytes.
+Underlying detail/pwt1001-labor-detail.dta (application/x-stata-14) 1128046 bytes.
+Earlier vintage National Accounts/pwt91_na_data.dta (application/x-stata-14) 1869502 bytes.
